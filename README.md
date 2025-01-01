@@ -4,7 +4,7 @@ I’m a Master of Data Science student with a knack for numbers and a passion fo
 
 These experiences have fueled my ambition to become a quantitative analyst, blending my love for problem-solving, statistical modeling, and machine learning. I’m always excited to learn, collaborate, and explore new ways to use data science to make smarter, data-driven decisions. Let’s connect and build something amazing! 🚀
 
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/longlpnguyen/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/longlpnguyen/)
 
 ## Personal Information
 - **Name**: Long Nguyen
