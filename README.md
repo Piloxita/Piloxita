@@ -69,7 +69,8 @@ University of New Brunswick | Fredericton, NB
 **Heart Disease Diagnostic Machine**  
 *Dec 2024*  
 - Built a machine learning model to predict angiographic coronary disease in patients.  
-- Constructed a Docker container for the project, ensuring reproducibility and ease of deployment.  
+- Constructed a Docker container for the project, ensuring reproducibility and ease of deployment.
+![Heart Disease Diagnostic Machine](https://github.com/UBC-MDS/DSCI-522-2425-team35-Heart_disease_diagnostic_machine)
 
 **Hackathon Winner – Learning Analytics Hackathon**  
 *Oct 2024*  
