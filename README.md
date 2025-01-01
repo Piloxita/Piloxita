@@ -66,11 +66,10 @@ University of New Brunswick | Fredericton, NB
 - Built probabilistic forecasting models using tree-based algorithms (XGBoost, LightGBM, CatBoost).  
 - Developed a multi-period model for predicting market trends with real-world, production-grade data.  
 
-**Heart Disease Diagnostic Machine**  
+**[Heart Disease Diagnostic Machine](https://github.com/UBC-MDS/DSCI-522-2425-team35-Heart_disease_diagnostic_machine)**  
 *Dec 2024*  
 - Built a machine learning model to predict angiographic coronary disease in patients.  
 - Constructed a Docker container for the project, ensuring reproducibility and ease of deployment.
-![Heart Disease Diagnostic Machine](https://github.com/UBC-MDS/DSCI-522-2425-team35-Heart_disease_diagnostic_machine)
 
 **Hackathon Winner – Learning Analytics Hackathon**  
 *Oct 2024*  
