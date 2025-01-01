@@ -5,95 +5,82 @@ I’m a Master of Data Science student with a knack for numbers and a passion fo
 These experiences have fueled my ambition to become a quantitative analyst, blending my love for problem-solving, statistical modeling, and machine learning. I’m always excited to learn, collaborate, and explore new ways to use data science to make smarter, data-driven decisions. Let’s connect and build something amazing! 🚀
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/longlpnguyen/)
+[![Email](https://img.shields.io/badge/Email-Click%20Here-blue?style=for-the-badge&logo=gmail)](mailto:longlpnguyen.career@gmail.com)  
 
-## Personal Information
-- **Name**: Long Nguyen
-- **Nationality**: Canadian 🇨🇦, Hong Kong 🇭🇰  
-- **Date and Place of Birth**: 1994; Vancouver, Canada 🎂  
-- **Languages**:  
-  - English (Native) 🇬🇧  
-  - Cantonese (Fluent) 🀄  
-- **Email**: [Andy.tai@stat.ubc.ca](mailto:Andy.tai@stat.ubc.ca) 📧  
-- **ORCID**: [https://orcid.org/0000-0001-5262-8615](https://orcid.org/0000-0001-5262-8615)  
-- **Dissertation**: [http://hdl.handle.net/2429/87759](http://hdl.handle.net/2429/87759) 📜  
+---
+## 💼 Skills
 
-## Education 🎓  
-- **Sep. 2019 – April 2024**  
-  University of British Columbia (UBC), Vancouver, Canada  
-  - **Master of Science in Neuroscience PhD program (Fast Track)**  
-  - Supervisor: Dr. Reinhard Michael Krausz  
-  - Committee Members:  
-    - Dr. Alireza Kazemi  
-    - Dr. Raymond Ng  
-    - Dr. Christian Schuetz  
+### 🛠 Technical
+- **Languages & Tools**: Python, R, SQL, C++, Excel, Bloomberg Terminal
 
-- **2012 – 2017**  
-  University of Toronto, Toronto, Canada  
-  - **Honors Bachelor’s in Science (BSc)**  
-  - Major: Neuroscience  
-  - Minors: Environmental Science 🌱, Religion 🕊️  
+### 📊 Investment & Finance
+- **Key Expertise**: Quantitative Research, Portfolio Management, Financial Analysis, Backtesting, Risk Management
 
-- **2008 – 2012**  
-  West Point Grey Academy, Vancouver, Canada  
-  - High School Diploma 🎒  
+### 📈 Data Science
+- **Specializations**: Machine Learning, Statistical Modeling, Data Visualization, Predictive Analytics
 
-## Work Experience 💼  
-- **July 2024 – Present**  
-  **Postdoctoral Teaching and Learning Fellow**  
-  Master of Data Science Program, Department of Statistics, UBC  
-  - Teaching data science courses 📊  
+### 🌟 Soft Skills
+- **Core Strengths**: Problem Solving, Self-Motivation, Teamwork, Strategic Thinking, Analytical Thinking, Project Management
 
-- **April 2024 – Present**  
-  **NAI Innovations, Vancouver, BC, Canada — Analyst**  
-  - Evaluating ML-driven startups in medical cannabis symptom management 🌿  
-  - Leading strategic AI initiatives aligned with neuroscience and psychiatry 💡  
+---
+ 
+## 🎓 Education  
 
-- **April 2024 – September 2024**  
-  **Concussion RX, Vancouver, BC, Canada — Data Scientist**  
-  - Enhancing diagnosis and treatment using advanced AI tools 🤖  
-  - Analyzing and stratifying concussion subtypes based on demographic data 📈  
+### **Master of Data Science**  
+University of British Columbia | Vancouver, BC  
+*Sep 2024 – Jun 2025*  
+- Relevant Courses: Machine Learning, Statistical Inference, Programming & Software Development  
+- Key Topics: Parametric/Non-parametric modeling, optimization, data cleaning, hypothesis testing  
 
+### **Bachelor of Business Administration (First Class Honours in Finance)**  
+University of New Brunswick | Fredericton, NB  
+*Sep 2020 – May 2023*  
+- Minor: Economics | GPA: 4.1/4.3  
+- Relevant Courses: Investment, Corporate Finance, Derivatives, Statistics, Economics  
+- Projects: Managed $500,000 portfolio for UNB Endowment Fund; conducted stock analysis with Bloomberg Terminal  
 
-## Publications 📝  
+---
 
-[Full Publication List](https://scholar.google.ca/citations?user=Cs0lX0sAAAAJ&hl=en)
+## 💻 Work Experience  
 
-- **July 2024**  
-  _A machine learning approach to predicting overdose risk._  
-  Submitted, First Author, Journal of Health Management.  
+### **Finance Operations Analyst**  
+**TD Bank** | Dieppe, NB  
+*Apr 2022 – Aug 2024*  
+- Collected, cleansed, and validated financial data for reporting and reconciliations.  
+- Conducted quantitative analyses on financial statements, including MD&A and capital reporting.  
+- Implemented process improvements and developed new controls to optimize operations.  
+- Collaborated with cross-functional teams to meet performance goals and stakeholder requirements.  
 
-- **July 2024**  
-  _Utilizing machine learning for early intervention and risk management in the opioid overdose crisis._  
-  Submitted, under review.  
-  First Author, WIREs Computational Statistics.  
+### **Financial Analyst**  
+**Student Investment Fund** | Fredericton, NB  
+*Apr 2021 – Apr 2022*  
+- Managed $500,000 portfolio; performed equity analysis and prepared detailed reports.  
+- Represented UNB in the CFA Research Challenge and CQA Challenge, achieving finalist status.  
 
-- **June 2024**  
-  _Clinical decision support systems in addictions and concurrent disorders._  
-  Accepted, First Author, Journal of Evaluation in Clinical Practice.  
+---
 
+## 🏆 Projects  
 
-## Awards 🏆  
-- **2021/2022**  
-  **UBC Master of Data Science (MDS) Teacher’s Assistant (TA) Award**  
-  - For outstanding work in DSCI 524, 531, 532, and more 🎉  
+**Jane Street Real-Time Market Data Forecasting Competition**  
+*Oct 2024 – Jan 2025*  
+- Built probabilistic forecasting models using tree-based algorithms (XGBoost, LightGBM, CatBoost).  
+- Developed a multi-period model for predicting market trends with real-world, production-grade data.  
 
-- **2021–2023**  
-  **President's Academic Excellence Initiative PhD Award**  
-  - Recognizing significant contributions to UBC research 🧠  
+**Heart Disease Diagnostic Machine**  
+*Dec 2024*  
+- Built a machine learning model to predict angiographic coronary disease in patients.  
+- Constructed a Docker container for the project, ensuring reproducibility and ease of deployment.  
 
-- **June 4th, 2021**  
-  **2021 Research Day Lightning Talk & ePoster People’s Choice Award**  
-  - Clinical Research Poster: "The Application of Machine Learning to Understand Overdose Risk" ⚡  
+**Hackathon Winner – Learning Analytics Hackathon**  
+*Oct 2024*  
+- Developed a machine learning-powered tool for Canvas API to analyze group chat data and generate real-time recommendations.  
+- Gained hands-on experience in data wrangling, API integration, and recommendation systems.  
 
-## Conferences and Presentations 🎤  
-- **June 9-10, 2023**  
-  1st Canadian Academy of Addiction Psychiatry (CAAP) Conference  
-  - Event Coordinator/Participant 🎟️  
+---
 
-- **March 9, 2023**  
-  3rd Annual BC Concurrent Disorders Conference (Hosted by BCMHSUS)  
-  - Lightning Talk: "Machine Learning: A Predictive Model for Overdose" ⚙️  
+## 📜 Certifications  
+- **CFA Level 1** | Passed May 2023  
+- **Multivariable Calculus (MITx)** | Dec 2022  
+- **CS50: Introduction to Computer Science (HarvardX)** | Dec 2023  
 
-
-## Research Impact Statement 🌍  
-My research leverages interdisciplinary fields like artificial intelligence, data science, and psychiatry to address the opioid crisis in Vancouver, BC. Using machine learning techniques, I model overdose risks and develop clinical decision support systems for personalized care. My work contributes to healthcare by predicting comorbid outcomes like mental health disorders and suicide, enabling early interventions and improved outcomes.
+---
