@@ -5,7 +5,7 @@ I’m a Master of Data Science student with a knack for numbers and a passion fo
 These experiences have fueled my ambition to become a quantitative analyst, blending my love for problem-solving, statistical modeling, and machine learning. I’m always excited to learn, collaborate, and explore new ways to use data science to make smarter, data-driven decisions. Let’s connect and build something amazing! 🚀
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/longlpnguyen/)
-[![Email](https://img.shields.io/badge/Email-Click%20Here-blue?style=for-the-badge&logo=gmail)](mailto:longlpnguyen.career@gmail.com)  
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail)](mailto:longlpnguyen.career@gmail.com)
 
 ---
 ## 💼 Skills
