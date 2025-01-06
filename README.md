@@ -11,13 +11,29 @@ These experiences have fueled my ambition to become a quantitative analyst, blen
 ## 💼 Skills
 
 ### 🛠 Technical
-- **Languages & Tools**: Python, R, SQL, C++, Excel, Bloomberg Terminal
+- **Programming Languages**: Python, R, SQL, C++, Excel, Bloomberg Terminal
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+- **Data Science Tools**: Machine Learning, Statistical Modeling, Data Visualization, Predictive Analytics
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
+![Ggplot2](https://img.shields.io/badge/-ggplot2-1D70B8?style=flat&logo=rstudio&logoColor=white)
+![Altair](https://img.shields.io/badge/-Altair-4C78A8?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgdmlld0JveD0iMCAwIDEwIDEwIj48cGF0aCBkPSJNMCwwVjEwSDEwVjBIMFYwWiIvPjwvc3ZnPg==&logoColor=white)
+
+- **Databases & Cloud Tools**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) 
 
 ### 📊 Investment & Finance
-- **Key Expertise**: Quantitative Research, Portfolio Management, Financial Analysis, Backtesting, Risk Management
-
-### 📈 Data Science
-- **Specializations**: Machine Learning, Statistical Modeling, Data Visualization, Predictive Analytics
+- **Key Expertise**: Quantitative Research, Portfolio Management, Financial Analysis, Backtesting, Risk Management, Bloomberg Terminal
 
 ### 🌟 Soft Skills
 - **Core Strengths**: Problem Solving, Self-Motivation, Teamwork, Strategic Thinking, Analytical Thinking, Project Management
