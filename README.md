@@ -80,7 +80,5 @@ University of New Brunswick | Fredericton, NB
 
 ## 📜 Certifications  
 - **CFA Level 1** | Passed May 2023  
-- **Multivariable Calculus (MITx)** | Dec 2022  
-- **CS50: Introduction to Computer Science (HarvardX)** | Dec 2023  
 
 ---
