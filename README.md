@@ -11,12 +11,12 @@ These experiences have fueled my ambition to become a quantitative analyst, blen
 ## 💼 Skills
 
 ### 🛠 Technical
-- **Programming Languages**: Python, R, SQL, C++, Excel, Bloomberg Terminal
+- **Programming Languages**:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-- **Data Science Tools**: Machine Learning, Statistical Modeling, Data Visualization, Predictive Analytics
+- **Data Science Tools**:
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) 
 ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) 
