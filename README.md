@@ -87,7 +87,7 @@ University of New Brunswick | Fredericton, NB
 - Built a machine learning model to predict angiographic coronary disease in patients.  
 - Constructed a Docker container for the project, ensuring reproducibility and ease of deployment.
 
-**Hackathon Winner – Learning Analytics Hackathon**  
+**[Hackathon Winner – Learning Analytics Hackathon](https://github.com/Farhan-Faisal/five_guys-la-2024.git)**  
 *Oct 2024*  
 - Developed a machine learning-powered tool for Canvas API to analyze group chat data and generate real-time recommendations.  
 - Gained hands-on experience in data wrangling, API integration, and recommendation systems.  
