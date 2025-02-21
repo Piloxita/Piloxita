@@ -77,10 +77,12 @@ University of New Brunswick | Fredericton, NB
 
 ## 🏆 Projects  
 
-**Jane Street Real-Time Market Data Forecasting Competition**  
-*Oct 2024 – Jan 2025*  
-- Built probabilistic forecasting models using tree-based algorithms (XGBoost, LightGBM, CatBoost).  
-- Developed a multi-period model for predicting market trends with real-world, production-grade data.  
+**[ClassifierProMax (a Scikit-learn Wrapper)](https://github.com/UBC-MDS/ClassifierProMax)
+*Jan 2024*
+- Developed a Scikit-learn wrapper to streamline training and optimizing multiple ML models in parallel.
+- Designed the package using modular programming and OOP principles for flexibility and scalability.
+- Implemented CI/CD pipelines to automate updates and ensure seamless deployment.
+- Successfully published on PyPi, enabling broader adoption and accessibility.
 
 **[Heart Disease Diagnostic Machine](https://github.com/UBC-MDS/DSCI-522-2425-team35-Heart_disease_diagnostic_machine)**  
 *Dec 2024*  
