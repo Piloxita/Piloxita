@@ -7,7 +7,7 @@ These experiences have fueled my ambition to become a quantitative analyst, blen
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/longlpnguyen/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail)](mailto:longlpnguyen.career@gmail.com)
 
-Projects: ([click here for more details](https://github.com/Piloxita/Piloxita/edit/main/README.md#-projects))
+Projects:
 - **[ClassifierProMax (a Scikit-learn Wrapper)](https://github.com/UBC-MDS/ClassifierProMax)**
 - **[Heart Disease Diagnostic Machine](https://github.com/UBC-MDS/DSCI-522-2425-team35-Heart_disease_diagnostic_machine)**  
 
