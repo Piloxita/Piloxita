@@ -77,7 +77,7 @@ University of New Brunswick | Fredericton, NB
 
 ## 🏆 Projects  
 
-**[ClassifierProMax (a Scikit-learn Wrapper)](https://github.com/UBC-MDS/ClassifierProMax)
+**[ClassifierProMax (a Scikit-learn Wrapper)](https://github.com/UBC-MDS/ClassifierProMax)**  
 *Jan 2024*
 - Developed a Scikit-learn wrapper to streamline training and optimizing multiple ML models in parallel.
 - Designed the package using modular programming and OOP principles for flexibility and scalability.
