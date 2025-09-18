@@ -98,6 +98,7 @@ University of New Brunswick | Fredericton, NB
 - Developed a machine learning-powered tool for Canvas API to analyze group chat data and generate real-time recommendations.  
 - Gained hands-on experience in data wrangling, API integration, and recommendation systems.  
 
+**[New York Housing Market Dashboard](https://public.tableau.com/shared/48F68N6TQ?:display_count=n&:origin=viz_share_link)**
 ---
 
 ## 📜 Certifications  
